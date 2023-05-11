@@ -1,2 +1,14 @@
+so I found a tool well let you extract all of the models in raw format
+http://www.machinimadev.com/
+
+
+
+in order to use the activation server emulator you must put this inside of your host file
+
+
+{C:\Windows\System32\drivers\etc\hosts}
 127.0.0.1 	machinimadev.com
 127.0.0.1 	www.machinimadev.com
+
+
+
