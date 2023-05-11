@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^(.*)\.asp$ $1.php [nc]
